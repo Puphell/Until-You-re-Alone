@@ -1,0 +1,3 @@
+Öldürülen Her düşman Xp düşürsün. Bu Xpler, Player tarafından toplandığı zaman Xp Slider'i doldurmaya başlasın. Xp Slider dolduğunda Level Up durumu olsun.
+Level Up Olduğunda, level up panel set active true olsun ve Panel de ki 3 buton Player'a rastgele silahlar,özellikler versin. Oyuncu istediği silahı veya özelliği seçmek için butonlardan birisine tıklar
+Verilen silahları veya özellikleri Player'ın child objesi olarak eklemeliyiz.
